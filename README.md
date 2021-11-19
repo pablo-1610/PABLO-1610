@@ -10,9 +10,3 @@ Ici tu retrouveras quelques unes de mes créations notables tel que le **zAdmin*
 
 Si tu as envie de me soutenir, tu peux prendre un abonnement sur mon [**Patreon**](https://patreon.com/pablo1610)
 
-| Tier      | Cours Lua | Aide créa. script | Script du mois |
-| ----------- | ----------- | ----------- | ----------- |
-| Élève      | `✅`       | `⛔`       | `⛔`       |
-| Développeur   | `✅`        | `✅`        | `⛔`       |
-| Fondateur   | `✅`        | `✅`        | `✅`        |
-
