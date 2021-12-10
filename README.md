@@ -6,7 +6,3 @@ Ici tu retrouveras quelques unes de mes créations notables tel que le **zAdmin*
 **➳** Je ne prends plus de commandes<br>
 **➳** Je ne réponds pas aux DM
 
-## __Me soutenir__
-
-Si tu as envie de me soutenir, tu peux prendre un abonnement sur mon [**Patreon**](https://patreon.com/pablo1610)
-
