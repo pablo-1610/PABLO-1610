@@ -1,4 +1,4 @@
-[Korioz](https://github.com/Korioz) est mon papa
+[Korioz](https://github.com/Korioz) est mon papa (j'ai perdu un 1v1 Valo)
 
 All my repositories marked "archived" are no longer intended to be maintained.
 ## Discord
